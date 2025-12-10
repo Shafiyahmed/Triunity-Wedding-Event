@@ -1,0 +1,31 @@
+{
+  "name": "triunity-events",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "start": "vite"
+  },
+  "dependencies": {
+    "@hookform/resolvers": "^3.3.2",
+    "date-fns": "^3.0.6",
+    "framer-motion": "^12.23.25",
+    "react": "^18.2.0",
+    "react-datepicker": "^6.2.0",
+    "react-dom": "^18.2.0",
+    "react-hook-form": "^7.49.3",
+    "react-icons": "^5.0.1",
+    "react-router-dom": "^6.22.0",
+    "react-toastify": "^10.0.4",
+    "yup": "^1.3.3"
+  },
+  "devDependencies": {
+    "@types/react": "^18.2.55",
+    "@types/react-dom": "^18.2.19",
+    "@vitejs/plugin-react": "^4.2.1",
+    "vite": "^7.2.6"
+  }
+}
